@@ -1,6 +1,6 @@
 ### Hi I'm Raanan! 👋
 
-👨‍💻 Junior Backend Developer passionate about coding and learning new tech daily.
+👨‍💻 Software Developer passionate about coding and learning new tech daily.
 
 🚀 I love diving into new technologies and frameworks,<br/>keeping my toolbox up-to-date and versatile.
 
